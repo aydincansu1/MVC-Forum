@@ -1,0 +1,31 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": " React MVC Pattern (Mimari)",
+      "text": " MVC Mimari ile nasil bilesenleri yonetirim?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "2",
+      "user": "Ali",
+      "title": " React MVC Pattern (Mimari)",
+      "text": " MVC Mimari ile nasil bilesenleri yonetirim?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "3",
+      "user": "Veli",
+      "title": " React MVC Pattern (Mimari)",
+      "text": " MVC Mimari ile nasil bilesenleri yonetirim?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "6e282bd5-7736-484a-b36d-2cbab3266784",
+      "user": "Ali",
+      "title": "React ",
+      "text": "dsds"
+    }
+  ]
+}
